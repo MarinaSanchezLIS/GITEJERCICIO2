@@ -1,1 +1,1 @@
-
+planetas = ["planeta1","planeta2","planeta3"]
