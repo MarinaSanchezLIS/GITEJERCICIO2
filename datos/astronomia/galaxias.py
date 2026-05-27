@@ -1,1 +1,1 @@
-
+galaxias = ["galaxia1","galaxia2","galaxia3","galaxia4"]
