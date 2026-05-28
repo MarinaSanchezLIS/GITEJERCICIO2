@@ -5,7 +5,7 @@ def explora(a):
 def cosmos(a, p, g):
     for alien in a:
         print(
-            f"El {alien} del planeta {random.choce(p)} de la galaxia {random.choice(g)}"
+            f"El {alien} del planeta {random.choice(p)} de la galaxia {random.choice(g)}"
         )
         explora(a)
         
